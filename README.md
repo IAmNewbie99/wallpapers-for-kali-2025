@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/59175356/161945350-3772c02f-8696-4066-a2ef-31e392ac6233.png" alt="Recolored Kali Wallpapers" width="1000">
   <br>
-  <p>This project will added some colours and extra wallpapers</p>
+  <p>This project added some colours and extra wallpapers</p>
   <p>Credit to <a href="https://github.com/owerdogan/wallpapers-for-kali/">owerdogan</a></p>
 </h1>
 
