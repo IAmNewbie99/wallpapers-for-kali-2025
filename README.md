@@ -156,6 +156,7 @@
 <img src="kali-orange/orange-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<details>
 <summary>Kali Grey</summary>
 <img src="kali-grey/grey-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-grey/grey-kali-abstract-sky-dark-16x9.png" width="500">
@@ -174,6 +175,7 @@
 <img src="kali-grey/grey-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<details>
 <summary>Kali Black</summary>
 <img src="kali-black/black-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-black/black-kali-ascii-16x9.png" width="500">
@@ -189,6 +191,7 @@
 <img src="kali-black/black-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<details>
 <summary>Kali White</summary>
 <img src="kali-white/white-kali-abstract-sky-dark-16x9.png" width="500">
 <img src="kali-white/white-kali-ascii-16x9.png" width="500">
@@ -201,6 +204,7 @@
 <img src="kali-white/white-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<details>
 <summary>Extras</summary>
 <img src="extras/inverted-kali-ascii-extras-16x9.png" width="500">
 <img src="extras/amethyst-kali-geometric-extras-16x9.png" width="500">
