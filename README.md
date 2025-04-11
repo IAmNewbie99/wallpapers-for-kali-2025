@@ -9,7 +9,7 @@
 
 <div align="center">
 <details>
-<summary>Kali Red(Extras)</summary>
+<summary>Kali Red</summary>
 <img src="kali-red/red-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-red/red-kali-abstract-sky-dark-16x9.jpg" width="500">
 <img src="kali-red/red-kali-ascii-16x9.png" width="500">
@@ -27,7 +27,7 @@
 </details> 
   
 <details>
-<summary>Kali Green(Extras)</summary>
+<summary>Kali Green</summary>
 <img src="kali-green/green-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-green/green-kali-abstract-sky-dark-16x9.jpg" width="500">
 <img src="kali-green/green-kali-ascii-16x9.png" width="500">
@@ -55,13 +55,15 @@
 <img src="kali-cyan/cyan-kali-logo-16x9.png" width="500">
 <img src="kali-cyan/cyan-kali-mesh-16x9.png" width="500">
 <img src="kali-cyan/cyan-kali-neon-16x9.png" width="500">
-<img src="kali-cyan/cyan-kali-light-strips-16x9.png" width="500">
 <img src="kali-cyan/cyan-kali-nova-16x9.png" width="500">
 <img src="kali-cyan/cyan-kali-16x9.jpg" width="500">
+<img src="kali-cyan/cyan-kali-light-strips-16x9.png" width="500">
+<img src="kali-cyan/cyan-kali-geometric-extras-16x9.png" width="500">
+<img src="kali-cyan/cyan-kali-neon-extras-16x9.png" width="500">
 </details> 
 
 <details>
-<summary>Kali Yellow(Extras)</summary>
+<summary>Kali Yellow</summary>
 <img src="kali-yellow/yellow-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-abstract-sky-dark-16x9.jpg" width="500">
 <img src="kali-yellow/yellow-kali-ascii-16x9.png" width="500">
@@ -72,13 +74,14 @@
 <img src="kali-yellow/yellow-kali-mesh-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-neon-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-nova-16x9.png" width="500">
-<img src="kali-yellow/yellow-kali-light-strips-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-16x9.jpg" width="500">
+<img src="kali-yellow/yellow-kali-light-strips-16x9.png" width="500">
+<img src="kali-yellow/yellow-kali-geometric-extras-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-neon-extras-16x9.png" width="500">
 </details> 
 
 <details>
-<summary>Kali Blue(New)</summary>
+<summary>Kali Blue</summary>
 <img src="kali-blue/blue-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-blue/blue-kali-abstract-sky-dark-16x9.png" width="500">
 <img src="kali-blue/blue-kali-ascii-16x9.png" width="500">
@@ -91,12 +94,13 @@
 <img src="kali-blue/blue-kali-nova-16x9.png" width="500">
 <img src="kali-blue/blue-kali-16x9.png" width="500">
 <img src="kali-blue/blue-kali-light-strips-16x9.png" width="500">
+<img src="kali-blue/blue-kali-geometric-extras-16x9.png" width="500">
 <img src="kali-blue/blue-kali-ascii-extras-16x9.png" width="500">
 <img src="kali-blue/blue-kali-neon-extras-16x9.png" width="500">
 </details> 
 
 <details>
-<summary>Kali Purple(New)</summary>
+<summary>Kali Purple</summary>
 <img src="kali-purple/purple-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-purple/purple-kali-abstract-sky-dark-16x9.png" width="500">
 <img src="kali-purple/purple-kali-ascii-16x9.png" width="500">
@@ -109,12 +113,13 @@
 <img src="kali-purple/purple-kali-nova-16x9.png" width="500">
 <img src="kali-purple/purple-kali-16x9.png" width="500">
 <img src="kali-purple/purple-kali-light-strips-16x9.png" width="500">
+<img src="kali-purple/purple-kali-geometric-extras-16x9.png" width="500">
 <img src="kali-purple/purple-kali-ascii-extras-16x9.png" width="500">
 <img src="kali-purple/purple-kali-neon-extras-16x9.png" width="500">
 </details> 
 
 <details>
-<summary>Kali Pink(New)</summary>
+<summary>Kali Pink</summary>
 <img src="kali-pink/pink-kali-abstract-sky-16x9.png" width="500">
 <img src="kali-pink/pink-kali-abstract-sky-dark-16x9.png" width="500">
 <img src="kali-pink/pink-kali-ascii-16x9.png" width="500">
@@ -127,9 +132,29 @@
 <img src="kali-pink/pink-kali-nova-16x9.png" width="500">
 <img src="kali-pink/pink-kali-16x9.png" width="500">
 <img src="kali-pink/pink-kali-light-strips-16x9.png" width="500">
+<img src="kali-pink/pink-kali-geometric-extras-16x9.png" width="500">
 <img src="kali-pink/pink-kali-ascii-extras-16x9.png" width="500">
 <img src="kali-pink/pink-kali-neon-extras-16x9.png" width="500">
 </details> 
+
+<details>
+<summary>Kali Orange</summary>
+<img src="kali-orange/orange-kali-abstract-sky-16x9.png" width="500">
+<img src="kali-orange/orange-kali-abstract-sky-dark-16x9.png" width="500">
+<img src="kali-orange/orange-kali-ascii-16x9.png" width="500">
+<img src="kali-orange/orange-kali-contours-16x9.png" width="500">
+<img src="kali-orange/orange-kali-dark-16x9.png" width="500">
+<img src="kali-orange/orange-kali-geometric-16x9.png" width="500">
+<img src="kali-orange/orange-kali-logo-16x9.png" width="500">
+<img src="kali-orange/orange-kali-mesh-16x9.png" width="500">
+<img src="kali-orange/orange-kali-neon-16x9.png" width="500">
+<img src="kali-orange/orange-kali-nova-16x9.png" width="500">
+<img src="kali-orange/orange-kali-16x9.png" width="500">
+<img src="kali-orange/orange-kali-light-strips-16x9.png" width="500">
+<img src="kali-orange/orange-kali-geometric-extras-16x9.png" width="500">
+<img src="kali-orange/orange-kali-ascii-extras-16x9.png" width="500">
+<img src="kali-orange/orange-kali-neon-extras-16x9.png" width="500">
+</details>
 
 </div>
 <!-- LICENSE -->
