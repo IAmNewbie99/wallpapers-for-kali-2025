@@ -156,6 +156,56 @@
 <img src="kali-orange/orange-kali-neon-extras-16x9.png" width="500">
 </details>
 
+<summary>Kali Grey</summary>
+<img src="kali-grey/grey-kali-abstract-sky-16x9.png" width="500">
+<img src="kali-grey/grey-kali-abstract-sky-dark-16x9.png" width="500">
+<img src="kali-grey/grey-kali-ascii-16x9.png" width="500">
+<img src="kali-grey/grey-kali-contours-16x9.png" width="500">
+<img src="kali-grey/grey-kali-dark-16x9.png" width="500">
+<img src="kali-grey/grey-kali-geometric-16x9.png" width="500">
+<img src="kali-grey/grey-kali-logo-16x9.png" width="500">
+<img src="kali-grey/grey-kali-mesh-16x9.png" width="500">
+<img src="kali-grey/grey-kali-neon-16x9.png" width="500">
+<img src="kali-grey/grey-kali-nova-16x9.png" width="500">
+<img src="kali-grey/grey-kali-16x9.png" width="500">
+<img src="kali-grey/grey-kali-light-strips-16x9.png" width="500">
+<img src="kali-grey/grey-kali-geometric-extras-16x9.png" width="500">
+<img src="kali-grey/grey-kali-ascii-extras-16x9.png" width="500">
+<img src="kali-grey/grey-kali-neon-extras-16x9.png" width="500">
+</details>
+
+<summary>Kali Black</summary>
+<img src="kali-black/black-kali-abstract-sky-16x9.png" width="500">
+<img src="kali-black/black-kali-ascii-16x9.png" width="500">
+<img src="kali-black/black-kali-dark-16x9.png" width="500">
+<img src="kali-black/black-kali-geometric-16x9.png" width="500">
+<img src="kali-black/black-kali-logo-16x9.png" width="500">
+<img src="kali-black/black-kali-mesh-16x9.png" width="500">
+<img src="kali-black/black-kali-neon-16x9.png" width="500">
+<img src="kali-black/black-kali-nova-16x9.png" width="500">
+<img src="kali-black/black-kali-16x9.png" width="500">
+<img src="kali-black/black-kali-light-strips-16x9.png" width="500">
+<img src="kali-black/black-kali-geometric-extras-16x9.png" width="500">
+<img src="kali-black/black-kali-neon-extras-16x9.png" width="500">
+</details>
+
+<summary>Kali White</summary>
+<img src="kali-white/white-kali-abstract-sky-dark-16x9.png" width="500">
+<img src="kali-white/white-kali-ascii-16x9.png" width="500">
+<img src="kali-white/white-kali-contours-16x9.png" width="500">
+<img src="kali-white/white-kali-dark-16x9.png" width="500">
+<img src="kali-white/white-kali-geometric-16x9.png" width="500">
+<img src="kali-white/white-kali-neon-16x9.png" width="500">
+<img src="kali-white/white-kali-16x9.png" width="500">
+<img src="kali-white/white-kali-geometric-extras-16x9.png" width="500">
+<img src="kali-white/white-kali-neon-extras-16x9.png" width="500">
+</details>
+
+<summary>Extras</summary>
+<img src="extras/inverted-kali-ascii-extras-16x9.png" width="500">
+<img src="extras/amethyst-kali-geometric-extras-16x9.png" width="500">
+</details>
+
 </div>
 <!-- LICENSE -->
 <h2>License</h2>
